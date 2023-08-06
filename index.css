@@ -39,12 +39,12 @@
 
 .box1 {
   width: 522px;
-  height: 200px;
+  height: 80px;
   border: 1px solid rgb(185, 180, 180);
   margin-top: 20px;
   padding: 18px;
   display: flex;
-
+  align-items: center;
 }
 
 .box1_content {
@@ -78,11 +78,12 @@ input[name="radio3"] {
 
 .box2 {
   width: 522px;
-  height: 200px;
+  height: 80px;
   border: 1px solid rgb(185, 180, 180);
   margin-top: 20px;
   padding: 18px;
   display: flex;
+  align-items: center;
 }
 
 .box2_content {
@@ -145,7 +146,7 @@ left: 40px;
 
   .horizontal_line {
     margin-top: 40px;
-    width: 86%;
+    width: 90%;
   }
 
 
